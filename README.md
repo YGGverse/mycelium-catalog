@@ -1,6 +1,7 @@
 # The [Mycelium](https://github.com/threefoldtech/mycelium) Network Catalog
 
-> [!TIP] Submit new service via [PR](https://github.com/YGGverse/mycelium-catalog/pulls)
+> [!TIP]
+> Submit new service via [PR](https://github.com/YGGverse/mycelium-catalog/pulls)
 
 ## Public Peers
 
