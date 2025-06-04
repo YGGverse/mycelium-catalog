@@ -14,4 +14,4 @@
 ### Mycelium-only peers BitTorrent tracker
 
 * `udp://[505:6847:c778:61a1::fdb]:6969`
-  * http://[505:6847:c778:61a1::fdb] - stats
+  * [http://[505:6847:c778:61a1::fdb]](http://[505:6847:c778:61a1::fdb]) - stats
