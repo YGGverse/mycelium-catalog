@@ -14,10 +14,10 @@
 ### Radio stations
 
 * [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0])
-    * [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/disco](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/disco) Disco, Funk, RnB radio
-    * [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/kti](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/kti) KTI Archive radio
-    * [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/megaton](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/megaton) Megaton Cafe Radio
-    * [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/vocaltrance](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/vocaltrance) Vocal trance
+    * [Disco, Funk, RnB radio](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/disco)
+    * [KTI Archive radio](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/kti)
+    * [Megaton Cafe Radio](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/megaton)
+    * [Vocal trance](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]/vocaltrance)
 
 ## BitTorrent
 
