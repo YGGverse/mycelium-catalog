@@ -9,6 +9,10 @@
 
 * `193.93.119.13:9651`
 
+## Radio stations
+
+* [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0])
+
 ## BitTorrent
 
 ### Mycelium-only peers BitTorrent tracker
