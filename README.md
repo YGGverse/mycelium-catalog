@@ -1,4 +1,4 @@
-# The [Mycelium](https://github.com/threefoldtech/mycelium) Network Catalog
+# The [Mycelium](https://github.com/threefoldtech/mycelium) network catalog
 
 > [!TIP]
 > Submit new service via [PR](https://github.com/YGGverse/mycelium-catalog/pulls)
