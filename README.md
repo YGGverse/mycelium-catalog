@@ -25,3 +25,7 @@
 
 * `udp://[505:6847:c778:61a1::fdb]:6969`
   * `http://[505:6847:c778:61a1::fdb]` - stats
+ 
+## [Nex protocol](https://nightfall.city/nex/info/specification.txt)
+
+* `nex://[505:6847:c778:61a1::b]/` - personal nexlog by P.S. (running with [Nexy](https://github.com/YGGverse/nexy))
