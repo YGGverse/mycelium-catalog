@@ -25,7 +25,11 @@
 
 * `udp://[505:6847:c778:61a1::fdb]:6969`
   * `http://[505:6847:c778:61a1::fdb]` - stats
- 
+
+## FTP
+
+* `ftp://[42b:152a:b542:bc16::fdb]` - personal files collection (`21` port, active/passive anonymous mode)
+
 ## [Nex protocol](https://nightfall.city/nex/info/specification.txt)
 
 * `nex://[505:6847:c778:61a1::b]/` - personal nexlog by P.S. (running with [Nexy](https://github.com/YGGverse/nexy))
