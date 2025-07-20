@@ -10,6 +10,12 @@
 * `udp://[505:6847:c778:61a1::fdb]:6969`
   * `http://[505:6847:c778:61a1::fdb]` - stats
 
+## Crypto
+
+### [KevaCoin](https://github.com/kvazar-network/kevacoin)
+
+* `[42b:152a:b542:bc16:1943:3f88:505a:d652]:9338` - online rarely
+
 ## DNS
 
 ### [Alfis](https://github.com/Revertron/Alfis) public peers
