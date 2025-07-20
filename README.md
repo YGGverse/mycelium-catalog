@@ -26,15 +26,15 @@
 
 * `ftp://[42b:152a:b542:bc16::fdb]` - personal files collection (`21` port, active/passive anonymous mode)
 
-## Network peers
+## [Nex protocol](https://nightfall.city/nex/info/specification.txt)
+
+* `nex://[505:6847:c778:61a1::b]/` - personal nexlog by P.S. (running with [Nexy](https://github.com/YGGverse/nexy))
+
+## Public peers
 
 ### Ukraine
 
 * `193.93.119.13:9651`
-
-## [Nex protocol](https://nightfall.city/nex/info/specification.txt)
-
-* `nex://[505:6847:c778:61a1::b]/` - personal nexlog by P.S. (running with [Nexy](https://github.com/YGGverse/nexy))
 
 ## Web-proxy
 
