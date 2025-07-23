@@ -10,21 +10,11 @@
 * `udp://[505:6847:c778:61a1::fdb]:6969`
   * `http://[505:6847:c778:61a1::fdb]` - stats
 
-## Crypto
-
-### [KevaCoin](https://github.com/kvazar-network/kevacoin)
-
-* `[42b:152a:b542:bc16:1943:3f88:505a:d652]:9338` - online rarely
-
 ## DNS
 
 ### [Alfis](https://github.com/Revertron/Alfis) public peers
 
-* `[42b:152a:b542:bc16:1943:3f88:505a:d652]:4244`
-
-## FTP
-
-* `ftp://[42b:152a:b542:bc16::fdb]` - personal files collection (`21` port, active/passive anonymous mode)
+* `[505:6847:c778:61a1:5c6d:e802:d291]:4244` - see also [PR#386](https://github.com/Revertron/Alfis/pull/386)
 
 ## [Nex protocol](https://nightfall.city/nex/info/specification.txt)
 
