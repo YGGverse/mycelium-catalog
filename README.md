@@ -28,9 +28,12 @@
 
 ## Games
 
-## Half-Life ([Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs))
+### Half-Life
+
+#### [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs)
 
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:27015`
+    * `my.hl.srv` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
 
 ## Web-proxy
 
