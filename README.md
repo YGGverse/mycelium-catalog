@@ -10,6 +10,12 @@
 * `udp://[505:6847:c778:61a1::fdb]:6969`
   * `http://[505:6847:c778:61a1::fdb]` - stats
 
+## Community
+
+### UA
+
+* `http://[505:6847:c778:61a1::c]`
+
 ## DNS
 
 ### [Alfis](https://github.com/Revertron/Alfis) public peers
