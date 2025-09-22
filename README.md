@@ -15,6 +15,7 @@
 ### UA
 
 * `http://[505:6847:c778:61a1::c]`
+    * `http://myc.ua.srv`
 
 ## DNS
 
@@ -54,3 +55,10 @@
     * `/kti` - KTI Archive radio
     * `/megaton` - Megaton Cafe Radio
     * `/vocaltrance` - Vocal trance
+
+#### Радіо Підпільне
+
+Не формальна радіо станція нашої спільноти, 100% український рок
+
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000/underground.mp3`
+    * `http://myc.ua.srv:8000/underground.mp3`
