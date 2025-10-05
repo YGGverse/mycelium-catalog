@@ -23,9 +23,9 @@
 
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244` - see also [PR#386](https://github.com/Revertron/Alfis/pull/386)
 
-## [Nex protocol](https://nightfall.city/nex/info/specification.txt)
+## I2P
 
-* `nex://[505:6847:c778:61a1::b]/` - personal nexlog by P.S. (running with [Nexy](https://github.com/YGGverse/nexy))
+* `http://[302:68d0:f0d5:b88d::9216]/` - i2pd reseed
 
 ## Public peers
 
