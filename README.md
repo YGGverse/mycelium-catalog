@@ -18,9 +18,7 @@
 
 ## Community
 
-### UA
-
-* `http://[505:6847:c778:61a1::c]`
+* `http://[505:6847:c778:61a1::c]` - Ukrainian community forums
     * `http://myc.ua.srv`
 
 ## DNS
