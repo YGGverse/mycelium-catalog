@@ -47,9 +47,5 @@
 ### Radio stations
 
 * `http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]`
-    * `/disco` - Disco, Funk, RnB radio
-    * `/kti` - KTI Archive radio
-    * `/megaton` - Megaton Cafe Radio
-    * `/vocaltrance` - Vocal trance
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
     * `http://myc.ua.srv:8000` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
