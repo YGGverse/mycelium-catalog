@@ -11,9 +11,7 @@
 
 ## BitTorrent
 
-### Mycelium-only peers BitTorrent tracker
-
-* `udp://[505:6847:c778:61a1::fdb]:6969`
+* `udp://[505:6847:c778:61a1::fdb]:6969` - Mycelium-only peers BitTorrent tracker
   * `http://[505:6847:c778:61a1::fdb]` - stats
 
 ## Community
@@ -53,10 +51,5 @@
     * `/kti` - KTI Archive radio
     * `/megaton` - Megaton Cafe Radio
     * `/vocaltrance` - Vocal trance
-
-#### Радіо Підпільне
-
-Не формальна радіо станція нашої спільноти
-
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
     * `http://myc.ua.srv:8000` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
