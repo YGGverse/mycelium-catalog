@@ -25,7 +25,7 @@
 
 ## I2P
 
-* `http://[302:68d0:f0d5:b88d::9216]/` - i2pd reseed
+* `http://[505:6847:c778:61a1::9216]/` - i2pd reseed
 
 ## Public peers
 
