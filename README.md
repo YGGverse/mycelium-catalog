@@ -25,6 +25,11 @@
 
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244` - see also [PR#386](https://github.com/Revertron/Alfis/pull/386)
 
+
+## [Reticulum](https://reticulum.network)
+
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4242`
+
 ## I2P
 
 * `http://[505:6847:c778:61a1::9216]/` - i2pd reseed
