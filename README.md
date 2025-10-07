@@ -28,7 +28,7 @@
 
 ## [Reticulum](https://reticulum.network)
 
-* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4242`
+* `505:6847:c778:61a1:5c6d:e802:d291:8191` port `4242` TCP
 
 ## I2P
 
