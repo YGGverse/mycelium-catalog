@@ -12,7 +12,7 @@
 ## BitTorrent
 
 * `udp://[505:6847:c778:61a1::fdb]:6969` - Mycelium-only peers BitTorrent tracker
-  * `http://[505:6847:c778:61a1::fdb]` - stats
+  * [Stats](http://[505:6847:c778:61a1::fdb])
 
 ## DNS
 
@@ -27,7 +27,7 @@
 
 ## I2P
 
-* `http://[505:6847:c778:61a1::9216]/` - i2pd reseed
+* [i2pd reseed](http://[505:6847:c778:61a1::9216]/)
 
 ## Games
 
@@ -42,10 +42,10 @@
 
 ### Books
 
-* `http://[41e:42ca:c76c:d3e2:be24:11ff:fecd:5362]`
+* [http://[41e:42ca:c76c:d3e2:be24:11ff:fecd:5362]](http://[41e:42ca:c76c:d3e2:be24:11ff:fecd:5362])
 
 ### Radio stations
 
-* `http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]`
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
-    * `http://myc.ua.srv:8000` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
+* [http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]](http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0])
+* [http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000](http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000)
+    * http://myc.ua.srv:8000 - [Alfis DNS](https://github.com/Revertron/Alfis) alias
