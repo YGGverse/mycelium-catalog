@@ -24,23 +24,10 @@
 
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244` - see also [PR#386](https://github.com/Revertron/Alfis/pull/386)
 
+### FTP
 
-## [Reticulum](https://reticulum.network)
-
-* `505:6847:c778:61a1:5c6d:e802:d291:8191` port `4242` TCP
-
-## I2P
-
-* `http://[505:6847:c778:61a1::9216]/` - i2pd reseed
-
-## Games
-
-### Half-Life
-
-#### [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs)
-
-* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:27015`
-    * `my.hl.srv` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
+* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
+    * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8021` | `http://myc.duplo.srv`
 
 ## Web-proxy
 
