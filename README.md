@@ -40,3 +40,9 @@
 * `http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
     * `http://myc.ua.srv:8000` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
+
+## Communication
+
+### IRC
+
+* `myc.irc.bnet.eu.org` for [BonoboNET](https://bnet.eu.org)
