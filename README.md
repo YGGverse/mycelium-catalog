@@ -24,6 +24,10 @@
 
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244` - see also [PR#386](https://github.com/Revertron/Alfis/pull/386)
 
+## Freedit
+
+* `http://[5ed:976:cee0:915d:9f2d:6b2d:2944:7cfc]`
+
 ### FTP
 
 * `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
