@@ -33,6 +33,13 @@
 * `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8021` | `http://myc.duplo.srv`
 
+## Game Servers
+
+### Xonotic
+
+* `[4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000`
+   * Press ` within Xonotic and type or paste connect [4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000
+
 ## Web-proxy
 
 ### Books
