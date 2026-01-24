@@ -11,8 +11,9 @@
 
 ### United States
 
-* `129.80.167.244:9651` Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort support
-* `[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:9651` Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort support
+Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort support
+ * `129.80.167.244:9651`
+ * `[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:9651`
 
 ## BitTorrent
 
