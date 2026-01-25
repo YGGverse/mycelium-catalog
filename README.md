@@ -9,6 +9,12 @@
 
 * `193.93.119.13:9651`
 
+### United States
+
+Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort support
+ * `129.80.167.244:9651`
+ * `[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:9651`
+
 ## BitTorrent
 
 * `udp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969` - Mycelium-only peers BitTorrent tracker
