@@ -42,6 +42,16 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 * `[4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000`
    * Press ` within Xonotic and type or paste connect [4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000
 
+## Git
+
+### [Radicle](https://radicle.xyz)
+
+#### YGGverse
+
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8776` - seed
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8788` - JSON/API
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8780` - Web explorer
+
 ## Web-proxy
 
 ### Books
