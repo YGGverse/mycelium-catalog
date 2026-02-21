@@ -37,10 +37,17 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ## Game Servers
 
+### Hytale
+
+* Bivrost — US-East (Residential FTTH) — No mods — Cross-overlay — Best-effort support
+* `548:71e:594f:aa3e:3ed1:2fc8:42b6:7897`
+   * From the main menu under **Servers**, use **Add Server** to favorite or **Direct Connect**.
+
 ### Xonotic
 
+* Bivrost — US-East (Ashburn VA) — Clearnet and Cross-overlay — Best-effort support
 * `[4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000`
-   * Press ` within Xonotic and type or paste connect [4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000
+   * Press **`** within Xonotic and type or paste: connect [4dc:f0f4:a473:25da:c50b:2fa8:2964:a936]:26000
 
 ## Git
 
