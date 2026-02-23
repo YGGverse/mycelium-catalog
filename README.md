@@ -53,9 +53,11 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ### [Radicle](https://radicle.xyz)
 
+Note: do not use square brackets in the seed host!
+
 #### YGGverse
 
-* `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@[505:6847:c778:61a1:5c6d:e802:d291:8191]:8776`
+* `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@505:6847:c778:61a1:5c6d:e802:d291:8191:8776`
     * [Selective](https://radicle.xyz/guides/seeder#a-selective-seeding-policy) seed, [mention](https://mastodon.social/@yggverse) to add an exception
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8788` - JSON/API
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8780` - Web explorer
