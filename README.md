@@ -53,7 +53,8 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ### [Radicle](https://radicle.xyz)
 
-Note: do not use square brackets in the seed host!
+> [!NOTE]
+> do not use square brackets in the seed host!
 
 #### YGGverse
 
