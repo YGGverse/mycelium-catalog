@@ -63,6 +63,14 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8788` - JSON/API
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8780` - Web explorer
 
+## Rust
+
+### Kellnr
+
+The registry for Rust crates
+
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8180` | http://myc.ua.srv:8180
+
 ## Web-proxy
 
 ### Books
