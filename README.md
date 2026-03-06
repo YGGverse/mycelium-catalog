@@ -37,6 +37,12 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ## Game Servers
 
+### Half-Life
+
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:27015` - Game
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:27010` - Master
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:27080` - HLState
+
 ### Hytale
 
 * Bivrost — US-East (Residential FTTH) — No mods — Cross-overlay — Best-effort support
