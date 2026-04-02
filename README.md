@@ -26,11 +26,13 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ## DNS
 
-### [Alfis](https://github.com/Revertron/Alfis)
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:53` - [Alfis DNS](https://github.com/Revertron/Alfis) + [Meshname](https://github.com/zhoreeq/meshname) only!
+
+### Alfis DNS
 
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244` - see also [PR#386](https://github.com/Revertron/Alfis/pull/386)
 
-### FTP
+## FTP
 
 * `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8021` | `http://myc.duplo.srv`
