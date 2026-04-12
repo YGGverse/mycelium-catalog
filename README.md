@@ -22,7 +22,7 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ## Community
 
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `http://myc.ua.srv`
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
 
 ## DNS
 
@@ -34,8 +34,8 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ## FTP
 
-* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
-    * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8021` | `http://myc.duplo.srv`
+* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
+    * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8021`
 
 ## Game Servers
 
@@ -71,13 +71,17 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8788` - JSON/API
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8780` - Web explorer
 
+## Nex (protocol)
+
+* `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]` - YGGverse resorces: podcasts, flarumdown, user blogs
+
 ## Rust
 
 ### Kellnr
 
 The registry for Rust crates
 
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8180` | http://myc.ua.srv:8180
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8180`
 
 ## Web-proxy
 
@@ -89,11 +93,10 @@ The registry for Rust crates
 
 * `http://[41e:42ca:c76c:d3e2:be24:11ff:fe5d:e3f0]`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
-    * `http://myc.ua.srv:8000` - [Alfis DNS](https://github.com/Revertron/Alfis) alias
 
 ## Communication
 
 ### IRC
 
 * `myc.irc.bnet.eu.org` for [BonoboNET](https://bnet.eu.org)
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6680` (http://myc.ua.srv:6680) - ZNC bouncer
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6680` - ZNC bouncer
