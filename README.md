@@ -73,7 +73,7 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 ## Nex (protocol)
 
-* `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]` - YGGverse resources: podcasts, flarumdown, user blogs
+* `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]` - YGGverse resources: podcasts, flarumdown, blogs
 
 ## Rust
 
