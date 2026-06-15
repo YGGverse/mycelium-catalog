@@ -76,6 +76,12 @@ Ashburn, Virginia — Oracle Cloud — QUIC-only — Metered — Best-effort sup
 
 * `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]/` - YGGverse resources: podcasts, flarumdown, blogs
 
+## Nostr
+
+### Blossom
+
+* `http://[505:6847:c778:61a1::bdb]/` - [whitelist](https://codeberg.org/YGGverse/server/src/branch/main/mnt/sdb1/blossom/whitelist.txt) only, send PR or mention [@YGGverse](https://mastodon.social/@YGGverse) to join
+
 ## Rust
 
 ### Kellnr
